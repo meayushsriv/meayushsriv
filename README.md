@@ -14,7 +14,5 @@ I'm a passionate Computer Science student currently pursuing my Bachelor's degre
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/meayushsriv)
 - GitHub: [GitHub Profile](https://github.com/meayushsriv)
 - Email: me.ayushsriv@gmail.com
-- Location: Patna, India
-- Phone: +91-8709201457
 
 Feel free to reach out if you're interested in collaborating on projects or just want to connect!
