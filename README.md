@@ -7,14 +7,6 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, EJS, ReactJS**
 
-- 👯 I’m looking to collaborate on [CodeTogether-Real-Time Code Editor and Project-Management Tool](https://github.com/meayushsriv/CodeTogether-Realtime-Coding-Platform)
-
-- 🤝 I’m looking for help with [Internshala-Automation](https://github.com/meayushsriv/Internshala-Automation)
-
-- 👨‍💻 All of my projects are available at [http://github.com/meayushsriv](http://github.com/meayushsriv)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/meayushsriv/](https://www.linkedin.com/in/meayushsriv/)
-
 - 💬 Ask me about **C/C++, Java, HTML/CSS, Shell Script, Javascript, NodeJS, ExpressJS, EJS, ReactJS**
 
 - 📫 How to reach me **me.ayushsriv@gmail.com**
