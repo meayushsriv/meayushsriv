@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Ayush Srivastava!</h1>
 <h3 align="center">Passionate Software Developer | DSA Enthusiast | Aspiring Full-Stack MERN Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meayushsriv" alt="meayushsriv" /></a> </p>
 
-- 🔭 I’m currently working on [QuickTask - Task Manager](https://github.com/meayushsriv/WorkSync-Task-Manager)
+- 🔭 I’m have currently worked on [Hack4Change-BioVet-Biohealth-Monitoring](https://github.com/meayushsriv/Hack4Change-BioVet-Biohealth-Monitoring)
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, EJS, ReactJS**
+- 🌱 I’m currently learning **Pandas, Matplotlib, Scikit-Learn**
 
 - 💬 Ask me about **C/C++, Java, HTML/CSS, Shell Script, Javascript, NodeJS, ExpressJS, EJS, ReactJS**
 
