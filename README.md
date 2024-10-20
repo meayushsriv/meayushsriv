@@ -2,7 +2,7 @@
 <h3 align="center">💻 Passionate Software Developer | DSA Enthusiast | Aspiring Full-Stack MERN Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+building+cool+projects!;Learning+Never+Stops!+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=500&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub+Profile!;Learning+Never+Stops!+🌟" alt="Typing SVG" />
 </p>
 
 <p align="center">
